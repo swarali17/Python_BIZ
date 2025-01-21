@@ -1,0 +1,4 @@
+2025-01-21 14:36:13,904 - INFO - Logger initialized.
+2025-01-21 14:36:19,027 - INFO - Name: swarali, Validation Result: VALID
+2025-01-21 14:36:25,604 - INFO - Password Validation Result: VALID
+2025-01-21 14:36:32,096 - INFO - Email: Swara@gmail.com, Validation Result: INVALID: Email must be a valid Gmail or Yahoo address.
